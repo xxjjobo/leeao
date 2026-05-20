@@ -1,6 +1,6 @@
 # 项目说明
 
-**附：大李敖全集6.0 涵盖分章节txt，不分章节txt，195本单行本epub，合集pdf，合集epub，合集mobi，合集azw3。其中合集pdf在chrome浏览器以及微信读书适配良好，合集epub在微信读书和wps适配良好，合集mobi在kindle app适配良好，azw3在kindle设备和kindle app适配良好，基本涵盖了所有使用面，请尽情阅读！**
+**附：大李敖全集6.0 涵盖分章节txt，不分章节txt，195本单行本epub，合集pdf，合集epub，合集mobi，合集azw3，合集txt。其中合集pdf在chrome浏览器以及微信读书适配良好，合集epub在微信读书和wps适配良好，合集mobi在kindle app适配良好，azw3在kindle设备和kindle app适配良好，基本涵盖了所有使用面，请尽情阅读！**
 
 
 
